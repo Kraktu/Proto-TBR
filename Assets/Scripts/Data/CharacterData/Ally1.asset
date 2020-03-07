@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a7ea2f022d30044ae8f85e9a1a04b7, type: 3}
+  m_Name: Ally1
+  m_EditorClassIdentifier: 
+  displayNameSO: Lightning
+  descriptionSO: '*WIP*'
+  lifeSO: 90
+  manaSO: 60
+  rageSO: 15
+  strenghtSO: 10
+  speedSO: 15
+  criticalChanceSO: 10
+  isAllySO: 1
+  myLittleSpriteSO: {fileID: 21300000, guid: 2945041c90f346f428e2ca1a4d597dac, type: 3}
